@@ -1,4 +1,12 @@
 ### Hi there 👋
+
+<a href="https://github.com/MonikaSliciute/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MonikaSliciute&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/MonikaSliciute/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MonikaSliciute&repo=convoychat" />
+</a>
+
 ![Monika's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonikaSliciute&theme=tokyonight&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonikaSliciute&layout=compact)](https://github.com/MonikaSliciute/github-readme-stats)
 <!--
