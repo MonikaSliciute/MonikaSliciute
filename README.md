@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Monika's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonikaSliciute&theme=solarized-light&show_icons=true)
+![Monika's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonikaSliciute&theme=tokyonight&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonikaSliciute&layout=compact)](https://github.com/MonikaSliciute/github-readme-stats)
 <!--
 **MonikaSliciute/MonikaSliciute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
